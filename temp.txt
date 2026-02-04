@@ -7,3 +7,4 @@ I: checkpoint
 H: checkpoint
 H checkpoint
 I checkpoint
+E checkpoint
